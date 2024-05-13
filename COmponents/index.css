@@ -1,0 +1,56 @@
+.header {
+  display: flex;
+  justify-content: space-between; 
+  align-items: center; 
+  background-color: #323dcf;
+  padding: 20px;
+  color: whitesmoke;
+  font-size: larger;
+}
+.search-container{
+  margin-top: 5px;
+}
+.body{
+  text-align: center;
+}
+.header .left-side {
+  display: flex; 
+  align-items: center; 
+}
+
+.header .right-side {
+  display: flex; 
+  align-items: center; 
+  margin-right: 30px;
+}
+
+.header button {
+  background-color: #323dcf;
+  padding: 3px;
+  margin-right: 10px;
+}
+
+.loginform {
+  text-align: center;
+}
+
+.loginform p {
+  font-size: larger;
+  margin-top: 0;
+}
+
+.loginform input {
+  margin-bottom: 10px;
+  margin-top: 3px;
+  padding: 6px;
+  width: 340px;
+}
+
+
+.custom-checkbox {
+  margin: 0;
+}
+
+.Link {
+  padding-top: 10px;
+}
